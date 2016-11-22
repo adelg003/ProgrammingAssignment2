@@ -30,3 +30,4 @@ foo$get()
 cacheSolve(foo)
 # Should get "getting cached data" on the second run
 cacheSolve(foo)
+
